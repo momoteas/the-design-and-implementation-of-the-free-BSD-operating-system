@@ -1,0 +1,16 @@
+2.1 FreeBSD facilities and the kernel: 
+        1) The FreeBSD kernel provides four basic facilities: processes, filesystems, communications, and system 
+           startup;
+
+2.2 Kernel organization:
+        1) As a static body of software, categorized by the functionality offered by the modules that make up the kernel;
+        2) By its dynamic operation, categorized according to the services provided to users;
+
+2.3 Kernel services:
+
+2.4 Process management:
+
+
+
+
+
